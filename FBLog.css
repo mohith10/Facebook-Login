@@ -1,0 +1,36 @@
+.jumbotron{ 
+    	background-color:#3b5998!important;
+    	
+	height:20px;
+	color:#FFFFFF;
+	}	
+
+.jumbotron p{ 
+	
+	
+	}	
+
+#form1	{	
+		color:#FFFFFF;
+		padding: 0px 0px 150px 90px;
+		margin-right: -5px;
+		margin-top:-40px;
+	}
+#form2	{
+		color:#FFFFFF;
+		margin-top:-40px;
+	}
+#button	{
+		background-color:#4682B4;
+		height:25px;
+		border: none;
+		text-align:top;
+	}
+#log	{
+	color:#4682B4;
+	}
+#form3	{ 	
+		margin-top:-150px;
+		margin-left:150px;
+	}
+
